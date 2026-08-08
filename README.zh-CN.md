@@ -36,4 +36,9 @@ Prism Glass 是一个面向 Coding Agent 的开源深色玻璃 UI Design Skill�
 
 **清晨方白晓** · `csuyincs-creator`
 
+中南工科研究生 · 非 AI 从业者，热衷探索 AI 落地实践与 Vibe Coding，持续记录分享好玩的东西。
+
+- 公众号 🔍：清晨方白晓
+- 小红书 / 抖音 同号：清晨方白晓
+
 本包采用仓库内 `LICENSE` 与 `NOTICE` 所述许可。作者品牌素材不属于 UI 设计系统的必要运行依赖。

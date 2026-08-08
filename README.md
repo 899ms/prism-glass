@@ -31,4 +31,9 @@ Teal-green is only one preset, not a fixed brand color.
 
 **清晨方白晓** · `csuyincs-creator`
 
+中南工科研究生 · 非 AI 从业者，热衷探索 AI 落地实践与 Vibe Coding，持续记录分享好玩的东西。
+
+- 公众号 🔍：清晨方白晓
+- 小红书 / 抖音 同号：清晨方白晓
+
 See `LICENSE` and `NOTICE` for licensing details.
