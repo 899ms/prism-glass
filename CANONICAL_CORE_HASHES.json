@@ -1,0 +1,8 @@
+{
+  "references/canonical-demo-single-file.html": "166637d119a2eaff6bb6ca910fdaa85273ac260a79e4e07707f0adcb3ced4645",
+  "references/dark-glass-tokens.css": "512b3d6b22f075a8e6d2119708ac1d759f8ceb37d4b1bb825d04661ca8589429",
+  "references/component-recipes.css": "46526f948321e7b607864a726501fae0ee007b17740848f9900778a2e914b2a1",
+  "references/palette-presets.json": "463a32cec30bccd89d6e253e5e3b2fe3aa011115cbb2096a2e20935911bf3d39",
+  "references/palette-engine.js": "18faddee1ec8d8cfc729554649a811079cc7519aaf37eac7c30566391135086c",
+  "references/canonical-reference.png": "f914d30ac567b966d8b13235cc6f84625fb77a916615e44a76ec311a5c1f070b"
+}

@@ -1,0 +1,29 @@
+{
+  "palette": {
+    "preset": "US-00",
+    "intensity": 0.55,
+    "ambientStrength": 0.42,
+    "surfaceTint": 0.28,
+    "accentUsage": 0.34,
+    "effects": true
+  },
+  "layout": {
+    "sidebar": 220,
+    "detail": 300,
+    "gap": 16
+  },
+  "material": {
+    "panelOpacity": 0.82,
+    "panelStrongOpacity": 0.88,
+    "blur": 16
+  },
+  "density": "compact",
+  "modules": [
+    "navigation",
+    "metrics",
+    "queue",
+    "visual-slot",
+    "timeline",
+    "detail"
+  ]
+}

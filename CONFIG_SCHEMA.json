@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Dark Glass UI + Palette Engine Config",
+  "type": "object",
+  "properties": {
+    "palette": {
+      "type": "object",
+      "properties": {
+        "preset": {
+          "type": "string",
+          "pattern": "^US-(0[0-9]|1[0-5])$",
+          "default": "US-00"
+        },
+        "intensity": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "default": 0.55
+        },
+        "ambientStrength": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "default": 0.42
+        },
+        "surfaceTint": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "default": 0.28
+        },
+        "accentUsage": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "default": 0.34
+        },
+        "effects": {
+          "type": "boolean",
+          "default": true
+        },
+        "customColors": {
+          "type": "array",
+          "minItems": 5,
+          "maxItems": 5,
+          "items": {
+            "type": "string",
+            "pattern": "^#[0-9A-Fa-f]{6}$"
+          }
+        }
+      },
+      "required": [
+        "preset"
+      ]
+    },
+    "density": {
+      "enum": [
+        "compact",
+        "comfortable"
+      ],
+      "default": "compact"
+    },
+    "layout": {
+      "type": "object"
+    },
+    "material": {
+      "type": "object"
+    },
+    "modules": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "palette",
+    "layout",
+    "modules"
+  ]
+}

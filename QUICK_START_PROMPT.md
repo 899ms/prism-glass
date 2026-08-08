@@ -1,0 +1,1 @@
+Use this Skill to redesign my page with the bundled Dark Glass UI + Palette Engine. Preserve my real content and information hierarchy. Use semantic design tokens, allow the entire page atmosphere—not only buttons—to follow the selected palette, and provide a runnable result that has been visually checked in Chromium against the canonical reference.

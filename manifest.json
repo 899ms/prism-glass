@@ -1,0 +1,45 @@
+{
+  "name": "dark-glass-dashboard-ui",
+  "displayName": "Prism Glass / 棱镜玻璃",
+  "tagline": "深色玻璃 UI 设计系统 · 可整体切换的调色引擎",
+  "version": "2.0.0",
+  "license": "Apache-2.0",
+  "type": "agent-skill",
+  "language": [
+    "zh-CN",
+    "en"
+  ],
+  "entry": "SKILL.md",
+  "canonicalCore": {
+    "demo": "references/canonical-demo-single-file.html",
+    "tokens": "references/dark-glass-tokens.css",
+    "components": "references/component-recipes.css",
+    "palettePresets": "references/palette-presets.json",
+    "paletteEngine": "references/palette-engine.js",
+    "visualReference": "references/canonical-reference.png"
+  },
+  "features": [
+    "dark-glass",
+    "palette-engine",
+    "ui-design-system",
+    "design-tokens",
+    "custom-palette",
+    "whole-ui-recolor",
+    "compound-color-effects",
+    "flexible-layout",
+    "responsive-ui",
+    "visual-qa"
+  ],
+  "optionalIntegrations": [
+    "fluidglass-ui"
+  ],
+  "telemetry": false,
+  "networkRequired": false,
+  "author": {
+    "name": "清晨方白晓",
+    "github": "csuyincs-creator",
+    "wechat": "清晨方白晓",
+    "xiaohongshu": "清晨方白晓",
+    "douyin": "清晨方白晓"
+  }
+}

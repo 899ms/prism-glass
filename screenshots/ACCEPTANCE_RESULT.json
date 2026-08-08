@@ -1,0 +1,24 @@
+{
+  "initialPalette": "US-00",
+  "blueGoldPalette": "US-11",
+  "blueGoldEffect": "blue-gold-hybrid",
+  "blueGoldTokens": {
+    "canvas": "#050916",
+    "accent": "#4B70BE",
+    "highlight": "#F2D79E",
+    "surface": "16,21,31"
+  },
+  "forestPalette": "US-15",
+  "forestTokens": {
+    "canvas": "#0B120F",
+    "accent": "#4A6B52",
+    "highlight": "#D8E8DC",
+    "surface": "19,26,27"
+  },
+  "customPalette": "CUSTOM",
+  "customAccent": "#A77BC6",
+  "scrollWidth1366": 1366,
+  "clientWidth1366": 1366,
+  "errors": [],
+  "passed": true
+}
