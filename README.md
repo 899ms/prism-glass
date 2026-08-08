@@ -1,5 +1,7 @@
 # Prism Glass / 棱镜玻璃
 
+> 🇨🇳 中文文档：[README.zh-CN.md](README.zh-CN.md)
+
 ![Demo](docs/demo.png)
 
 Prism Glass is an open-source UI Design Skill for coding agents. It separates stable dark-glass material DNA from a configurable Palette Engine. Glass depth, typography, spacing, geometry and hierarchy remain consistent while canvas, ambient light, surface tint, accents, highlights and data visualization can be recolored as one coherent system.
