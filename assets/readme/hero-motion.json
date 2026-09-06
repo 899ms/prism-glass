@@ -1,0 +1,14 @@
+{
+  "width": 1200,
+  "fps": 30,
+  "duration": 6.0,
+  "colors": 256,
+  "dither": "none",
+  "clip_to_base_alpha": true,
+  "max_size_mb": 2.5,
+  "layers": [
+    { "id": "panel-us00", "enter": { "start": 0.1, "end": 0.8, "from": [0, 0] }, "exit": { "start": 5.35, "end": 5.95, "to": [0, 0] } },
+    { "id": "panel-us11", "enter": { "start": 1.5, "end": 2.2, "from": [0, 0] }, "exit": { "start": 5.35, "end": 5.95, "to": [0, 0] } },
+    { "id": "panel-us08", "enter": { "start": 2.9, "end": 3.6, "from": [0, 0] }, "exit": { "start": 5.35, "end": 5.95, "to": [0, 0] } }
+  ]
+}
